@@ -1,1 +1,1 @@
-# OpenStack_Controller_core_service_HA_1.1
+# OpenStack Controller core service HA deployment document
