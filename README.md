@@ -1,0 +1,1 @@
+# OpenStack_Controller_core_service_HA_1.1
